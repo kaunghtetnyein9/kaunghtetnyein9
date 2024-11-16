@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm **Kaung Htet Nyein**, and I'm passionate about
 
 ### 🔭 Currently Working On
 - I am currently working on a DevOps project, exploring tools like Docker, Kubernetes, and CI/CD pipelines.
-- Improving skills in [DevOps, cloud computing, and automation tools such as Docker, Kubernetes, and Jenkins.] 
+- Improving skills in [DevOps, Cloud Computing, and Automation tools such as Docker, Kubernetes, and Jenkins.] 
 
 ### 🎓 Education
 - I am currently studying [Computer Science](https://www.swinburne.edu.au/) at [Swinburne University of Technology](https://www.swinburne.edu.au/).
@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm **Kaung Htet Nyein**, and I'm passionate about
 
 
 ### 📫 How to Reach Me
-- **Email**: [your-email@example.com](mailto:kaunghtetnyeinix@gmail.com)  
-- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kaung-htet-nyein-4131902bb/))  
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: [kaunghtetnyeinix@gmail.com](mailto:kaunghtetnyeinix@gmail.com)  
+- **LinkedIn**: [Kaung Htet Nyein](https://www.linkedin.com/in/kaung-htet-nyein-4131902bb/)  
+- **Discord**: [@kaunghtetnyein](https://discord.com/)
 
 ### 😄 Pronouns
 - He/Him  
