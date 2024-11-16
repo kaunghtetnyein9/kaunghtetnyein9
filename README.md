@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**kaunghtetnyein9/kaunghtetnyein9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm **Kaung Htet Nyein**, and I'm passionate about exploring new technologies, solving challenging problems, and building impactful projects.  
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- DevOps Technologies  (e.g., Docker, Kubernetes, Ansible, Terraform)  
+- Cloud computing (AWS, Oracle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- I am currently working on a DevOps project, exploring tools like Docker, Kubernetes, and CI/CD pipelines.
+- Improving skills in [DevOps, cloud computing, and automation tools such as Docker, Kubernetes, and Jenkins.] 
+
+### 🎓 Education
+- I am currently studying [Computer Science](https://www.swinburne.edu.au/) at [Swinburne University of Technology](https://www.swinburne.edu.au/).
+
+### 💬 Ask Me About
+- Infrastructure and Cloud Engineering
+
+
+### 📫 How to Reach Me
+- **Email**: [your-email@example.com](mailto:kaunghtetnyeinix@gmail.com)  
+- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kaung-htet-nyein-4131902bb/))  
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+
+### 😄 Pronouns
+- He/Him  
+
+### ⚡ Fun Fact
+- I’m an education counselor, helping students from Myanmar study in Malaysia! 🌏  
+
+---
