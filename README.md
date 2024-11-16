@@ -26,6 +26,13 @@ Welcome to my GitHub profile! I'm **Kaung Htet Nyein**, and I'm passionate about
 - He/Him  
 
 ### ⚡ Fun Fact
-- I’m an education counselor, helping students from Myanmar study in Malaysia! 🌏  
+- I’m an education counselor, helping students from Myanmar study in Malaysia! 🌏
+
+## 📈 GitHub Stats
+
+![Kaung Htet Nyein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaunghtetnyein9&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaunghtetnyein9&layout=compact&theme=radical)
+
 
 ---
