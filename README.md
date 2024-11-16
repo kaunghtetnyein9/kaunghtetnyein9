@@ -20,14 +20,9 @@ Welcome to my GitHub profile! I'm **Kaung Htet Nyein**, and I'm passionate about
 - **Email**: [<img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Email" width="40"> kaunghtetnyeinix@gmail.com](mailto:kaunghtetnyeinix@gmail.com)  
 - **LinkedIn**: [<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="40"> Kaung Htet Nyein](https://www.linkedin.com/in/kaung-htet-nyein-4131902bb/)  
 - **Discord**: [<img src="https://img.shields.io/badge/Discord-%238E2D88.svg?style=flat&logo=discord&logoColor=white" alt="Discord" width="40"> @kaunghtetnyein](https://discord.com/)
-  
-### ⚡ Fun Fact
-- I’m an education counselor, helping students from Myanmar study in Malaysia! 🌏
 
 ### 🌐 Website/Blog:
 -  [My Personal Blog](https://11211vibe.blogspot.com/)
-
-
 
 # 💻 Tech Stack:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) 
