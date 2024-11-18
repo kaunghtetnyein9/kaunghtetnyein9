@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm **Kaung Htet Nyein**, and I'm passionate about
 
 ### 🔭 Currently Working On
 - I am currently working on a DevOps project, exploring tools like Docker, Kubernetes, and CI/CD pipelines.
-- Improving skills in [DevOps, Cloud Computing, and Automation tools such as Docker, Kubernetes, and Jenkins.] 
+- Improving skills in [DevOps, Cloud Computing] 
 
 ### 🎓 Education
 - I am currently studying [Computer Science](https://www.swinburne.edu.au/) at [Swinburne University of Technology](https://www.swinburne.edu.au/).
